@@ -6,6 +6,7 @@
 CESOP CSD Parser v0.1
 
 @author: davidjwren
+#Project abandoned - needs to much external knowledge to derive schema
 """
 
 import numpy as np
